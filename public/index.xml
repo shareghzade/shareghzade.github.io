@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://shareghzade.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 May 2023 22:38:51 +0330</lastBuildDate><atom:link href="http://shareghzade.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://shareghzade.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 23 May 2023 22:38:51 +0330</pubDate>
+      
+      <guid>http://shareghzade.github.io/posts/my-first-post/</guid>
+      <description>Hello My name is HamidReza Shareghzade. I&amp;rsquo;m a Software Developer php js rs </description>
+    </item>
+    
+  </channel>
+</rss>
