@@ -3,8 +3,6 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-theme-shell'
 
-baseURL = "https://www.example.com/"
-title = "Shell"
 # author = "Yukuro"
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
