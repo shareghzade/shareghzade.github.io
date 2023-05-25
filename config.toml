@@ -1,6 +1,6 @@
 baseURL = 'https://shareghzade.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'HamidReza Shareghzadeh'
 theme = 'hugo-theme-shell'
 
 # author = "Yukuro"
@@ -10,7 +10,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
-  description = "Jane Doe's Portfolio!"
+  description = "HamidReza Shareghzadeh's Portfolio!"
   [Params.Terminal]
   # Note: color scheme
   # Note: You can choose between
@@ -33,6 +33,8 @@ ignoreErrors = ["error-remote-getjson"]
   pcName = "Arch"
   workDir = "mydir"
   profile = "profile.txt"
+  profile2 = "profile_other.log"
+
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
@@ -61,6 +63,10 @@ ignoreErrors = ["error-remote-getjson"]
 
   """
 
+  description2 = """
+   Hi I like apple.
+   """
+
   # Note: If you want to use a Markdown file, you can use the following
   # description = "/description.md"
   # Note: and put the description.md in /content/description.md
@@ -70,11 +76,11 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "my_activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [
-    ["C/C++", "https://www.example.com/"],
-    ["Python", "https://www.example.com/"],
-    ["Go", "https://golang.org/"],
-    ["Hugo", "/post/some-activity.md"],
-    ["Docker", "/post/some-activity.md"],
+    ["Resume(CV)", "cv"],
+    ["Blog", "blog"],
+    ["Contact", "contact"],
+    # ["Hugo", "/post/some-activity.md"],
+    # ["Docker", "/posts/text.md"],
   ]
 
 [module]
