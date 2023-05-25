@@ -1,4 +1,4 @@
-baseURL = 'https://shareghzade.github.io/'
+baseURL = 'https://shareghzadeh.github.io/'
 languageCode = 'en-us'
 title = 'HamidReza Shareghzadeh'
 theme = 'hugo-theme-shell'
